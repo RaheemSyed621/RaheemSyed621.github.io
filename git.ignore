@@ -1,0 +1,6 @@
+How to commit
+---
+1. Open command prompt cd to folder run following commands
+a. git add --all
+b. git commit -m "comment message"
+c. git push
